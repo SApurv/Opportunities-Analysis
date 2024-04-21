@@ -10,15 +10,15 @@ This project aims to conduct an Opportunities Analysis for a Sales Director in t
 * Provide simple, intuitive analyses that offer a clear picture of opportunities at different levels of geographic granularity and by different business segments.
 
 ## Contents:
-1) Data: Contains datasets provided for analysis.
+1) **Data:** Contains datasets provided for analysis.
 * Total spend of customers (restaurants) across various F&B categories
 * Data about non-commercial establishments (hospitals, schools) across different geographic areas
 * Data on retail outlets in similar geographies
 
-2) Analysis: Contains scripts and notebooks used to conduct the Opportunities Analysis.
+2) **Analysis:** Contains scripts and notebooks used to conduct the Opportunities Analysis.
 * Data cleaning and preprocessing
 * Exploratory data analysis
 * Visualizations and insights
 
-3) Documentation: Contains detailed documentation about the project, including the project overview, objectives, methodology, and findings.
+3) **Documentation:** Contains detailed documentation about the project, including the project overview, objectives, methodology, and findings.
 
